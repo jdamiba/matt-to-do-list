@@ -14,10 +14,9 @@ Lottie animations, located in the `lottie` subfolder, provide dynamic and engagi
 
 For example, if you have an image named "my-image.jpg" in the "public/images" directory, you can include it in your web page like this:
 
+Feel free to customize, extend to tailor your portfolio to your specific needs.
 
-Feel free to customize, extend to tailor your portfolio to your specific needs. 
-
-Make Sure to [Fork](https://github.com/muhammad-fiaz/portfolio/fork) This Repository to your GitHub Account and [Star⭐ it](https://github.com/muhammad-fiaz/portfolio/stargazers).
+Make Sure to [Fork](https://github.com/jdamiba/portfolio/fork) This Repository to your GitHub Account and [Star⭐ it](https://github.com/jdamiba/portfolio/stargazers).
 
 ## Support Me
 

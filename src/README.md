@@ -1,4 +1,4 @@
-# src Folder 
+# src Folder
 
 ## Overview
 
@@ -6,7 +6,6 @@ The "src" folder is the heart of Next.js project, where we can organize and mana
 It contains two essential folders: "components" ,"contents."
 and "styles".
 These folders play distinct roles in shaping the portfolio website.
-
 
 ## Usage
 
@@ -17,7 +16,7 @@ These folders play distinct roles in shaping the portfolio website.
 
 Feel free to customize, extend, or create new components and content files to tailor your portfolio to your specific needs. This structure promotes organization and separation of concerns, making your project more maintainable and scalable.
 
-Make Sure to [Fork](https://github.com/muhammad-fiaz/portfolio/fork) This Repository to your GitHub Account and [Star⭐ it](https://github.com/muhammad-fiaz/portfolio/stargazers).
+Make Sure to [Fork](https://github.com/jdamiba/portfolio/fork) This Repository to your GitHub Account and [Star⭐ it](https://github.com/jdamiba/portfolio/stargazers).
 
 ## Support Me
 

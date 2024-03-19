@@ -5,7 +5,7 @@ And we can fetch this from here to display the contents in portfolio website. So
 
 Feel free to expand and customize these data to suit your needs.
 
-Make Sure to [Fork](https://github.com/muhammad-fiaz/portfolio/fork) This Repository to your GitHub Account and [Star⭐ it](https://github.com/muhammad-fiaz/portfolio/stargazers).
+Make Sure to [Fork](https://github.com/jdamiba/portfolio/fork) This Repository to your GitHub Account and [Star⭐ it](https://github.com/jdamiba/portfolio/stargazers).
 
 ## Support Me
 
@@ -16,9 +16,6 @@ Enjoying my work? Consider supporting me by buying me a cup of coffee or becomin
 <a href="https://ko-fi.com/muhammadfiaz"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" height="20"></a>
 [![Sponsor muhammad-fiaz](https://img.shields.io/badge/Sponsor-muhammad--fiaz-brightgreen?logo=github)](https://github.com/sponsors/muhammad-fiaz)
 
-
-
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/muhammad-fiaz/portfolio/blob/main/LICENSE.md) file for details.
-
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/jdamiba/portfolio/blob/main/LICENSE.md) file for details.

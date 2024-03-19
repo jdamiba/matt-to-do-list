@@ -1,4 +1,4 @@
-# checkout more information at https://github.com/muhammad-fiaz/portfolio
+# checkout more information at https://github.com/jdamiba/portfolio
 # Logs
 logs
 *.log
@@ -83,6 +83,8 @@ typings/
 
 # Next.js build output
 .next
+.next/
+
 
 # Nuxt.js build / generate output
 .nuxt

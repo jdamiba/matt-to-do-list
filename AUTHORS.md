@@ -1,3 +1,3 @@
 # Authors
 
-- Muhammad Fiaz ([GitHub](https://github.com/muhammad-fiaz))
+- Joseph Damiba ([GitHub](https://github.com/jdamiba))
