@@ -33,7 +33,7 @@
 		"axios": "^1.6.7",
 		"babel-plugin-macros": "^3.1.0",
 		"compression-webpack-plugin": "^11.1.0",
-		"date-fns": "^3.0.2-rc.1",
+		"date-fns": "^3.6.0",
 		"devicon": "^2.16.0",
 		"fiaz": "latest",
 		"fiazjs": "latest",
